@@ -11,7 +11,7 @@ This project focuses on building secure, scalable backend services using Node.js
 
 - Node.js
 - Express.js
-- PostgreSQL / MySQL (update based on yours)
+- MySQL
 - JWT Authentication
 - Bcrypt (password hashing)
 
@@ -74,6 +74,7 @@ node app.js
 or
 
 nodemon app.js
+
 📌 Future Improvements
 Add Redis caching for performance
 Implement rate limiting
